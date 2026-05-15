@@ -18,3 +18,4 @@ public class Triangle {
             return "Scalene";
         }
     }
+}
